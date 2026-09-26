@@ -59,7 +59,7 @@
                             id="task_name"
                             name="task_name"
                             class="form-control"
-                            placeholder="e.g. Finish Laravel project"
+                            placeholder="e.g. Buy groceries"
                             value="{{ old('task_name') }}"
                             required
                         >
