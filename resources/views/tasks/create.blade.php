@@ -14,10 +14,10 @@
 
         <div class="logo">
             <div class="logo-icon">✓</div>
-            <div class="logo-text">TaskFlow</div>
+            <div class="logo-text">Personal Task Manager</div>
         </div>
 
-        <div class="nav-title">Workspace</div>
+        <div class="nav-title">Task Manager</div>
 
         <nav class="nav">
 
